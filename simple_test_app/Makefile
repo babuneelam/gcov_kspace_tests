@@ -1,5 +1,4 @@
-
-BUILDDIR=../..//bin
+BUILDDIR=../bin
 SHELL = /bin/sh
 CC    = gcc
 FLAGS        = -std=gnu99 -Iinclude
